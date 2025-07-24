@@ -1,0 +1,7 @@
+student_id,age,gender,high_school_score,attendance_rate,enrolled
+1,18,Female,82,95,yes
+2,19,Male,45,65,no
+3,20,Female,67,78,yes
+4,18,Male,50,70,no
+5,21,Female,91,98,yes
+6,20,Male,60,80,no
